@@ -1,0 +1,17 @@
+.svn/
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 忽略文件
+sftp-config.json
+package-lock.json
